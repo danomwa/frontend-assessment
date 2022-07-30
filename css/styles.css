@@ -1,0 +1,442 @@
+.part1 {
+    background-image:url(../images/assets/backgrounds/hero.jpg);
+    height: 800px;
+    padding-bottom: 0px;
+
+}
+
+.header li{
+    color: #FFFFFF;
+    position: absolute;
+    top: 50px;
+    padding-left: 850px;
+}
+
+.header h2{
+    padding-top: 20px;
+    color: #FFFFFF;
+    font-size: 60px;
+    padding-left: 50px;
+}
+
+#lg{
+    padding-left: 100px;
+}
+
+.brand-logo{
+    font-size: 50px;
+} 
+
+.part1 p {
+     color: white;
+     text-align: center;
+     padding-left: 200px;
+     padding-top: 30px;
+     font-size: 18px;
+      }
+
+.part1 h1 {
+    color: white;
+    padding-top: 90px;
+    padding-left: 300px;
+  }
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(56, 66, 61);
+    border-radius: 50%;
+    float: right;  
+    padding-bottom: 20px;   
+}
+
+.dt {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(40, 58, 221);
+    border-radius: 50%;
+    float: right;
+}
+
+.d{
+    height: 25px;
+    width: 25px;
+    background-color: rgb(16, 150, 27);
+    border-radius: 50%;
+    float: right;
+}
+
+.Sz{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#Mn{
+    border-bottom: 0.5px solid;
+    width: 70%;
+    color: darkgrey;
+    font-size: 23px;
+    padding-right: 1100px;
+}
+
+#panel{
+    padding-top: -0;
+    margin-top: -0;
+}
+
+#panel1{
+    padding-bottom: 30px;
+    padding-top: 60px;
+}
+
+.image {
+      background-image: url(../images/assets/products/tshirt.png);
+  }
+.section4 {
+      background-image:url(../images/assets/backgrounds/about.jpg);
+      height: 400px;
+  }
+.about{
+    padding-top: 80px;
+    font-size: 25px;
+  }
+
+.boxed{
+    border: 1px solid rgb(97, 76, 7);
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid rgb(97, 76, 7);  /* outer stroke */
+    outline: 1px solid rgb(97, 76, 7); /* inner stroke */
+    outline-offset: -2px;
+}  
+
+.about p{
+    color: white;
+}
+
+#shirt{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#box{
+    width: 310px;
+}
+
+#shadow{
+    height: 130px;
+}
+
+#shadow span{
+    float: left;
+    padding-top: 20px;
+    color: brown;
+}
+
+#shadow p{
+    float: right;
+    padding-top: 40px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#pants{
+    width: 33%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#card{
+    height:135px;
+}
+
+#card span{
+    float: left;
+    padding-top: 30px;
+    color: brown;
+}
+
+#card p{
+    float: right;
+    padding-top: 45px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#box1{
+    width: 310px;
+}
+
+#bag{
+    width: 43%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#content{
+    height:135px;
+}
+
+#content span{
+    float: left;
+    padding-top: 30px;
+    color: brown;
+}
+
+#content p{
+    float: right;
+    padding-top: 45px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#box2{
+    width: 310px;
+    float: inherit;
+}
+
+.wrap{
+    padding-left: 1100px;
+    font-size: 23px;
+    border-bottom: 0.5px solid;
+    width: 70%;
+    color: darkgrey;
+}
+
+
+
+#jacket{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#jtcontent{
+    height:135px;
+}
+
+#jtcontent span{
+    float: left;
+    padding-top: 80px;
+    color: brown;
+}
+
+#jtcontent p{
+    float: right;
+    padding-top: 50px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#jt{
+    width: 310px;
+    float: inherit;
+}
+
+#shoes{
+    width: 55%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#TS{
+    height:200px;
+}
+#TS span{
+    float: left;
+    padding-top: 80px;
+    color: brown;
+}
+
+#TS p{
+    float: right;
+    padding-top: 110px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#trekking{
+    width: 310px;
+    float: inherit;
+}
+
+#Tshirt{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#SHIRT{
+    height:135px;
+}
+
+#SHIRT span{
+    float: left;
+    padding-top: 35px;
+    color: brown;
+}
+
+#SHIRT p{
+    float: right;
+    padding-top: 50px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#Tbox{
+    width: 310px;
+    float: inherit;
+}
+
+#nav{
+    height: 100px;
+    padding-bottom: -0;
+}
+
+#nav img{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#nav p{
+    font-size: 20px;
+    padding-top: 25px;
+    padding-right: 300px;
+}
+
+#nav{
+    color: #FFFFFF;
+    position: relative;
+    height: 100px;
+}
+
+.section6{
+      text-align: center;
+      padding: 50px;
+  }
+
+#footer{
+    height: 350px;
+    
+}
+
+.nospace{
+    font-size: 0;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
+.section3{
+      background-color: rgba(195,131,76);
+}
+
+.white-text1{
+    color: #FFFFFF;
+    float: bottom; 
+}
+
+#ft{
+    padding-top: 25px;
+    margin-top: 25px;
+    padding-left: 100px;
+}
+
+#ft p{
+    font-size: 25px;
+    padding-left: 50px;
+    padding-bottom: 0;
+    border-bottom: 0;
+    margin-bottom: 0;
+}
+
+#ft img{
+    padding-inline-end: 20px;
+}
+
+#img2  {
+    padding-left: 20px;
+}
+
+#img3{
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+#img5{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+#img4{
+    padding-top: 30px;
+}
+
+#img6{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+#img7{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.cp{
+    color: #FFFFFF;
+    font-size: 5px;
+    padding-top: 60px;
+    font-style: oblique;
+}
+
+.white-text2 p{
+      font-size: 15px;
+      margin-top: 150px;
+      font-style: oblique;
+      color: #FFFFFF;
+      padding-left: 80px;
+  }
+
+.white-text2 h4{
+    font-size: 30px;
+    color: #FFFFFF;
+    font-size: 25px;
+    padding-left: 80px;
+}
+
+.white-text h5{
+    font-size: 30px;
+    line-height: 0;
+    padding-bottom: 0;
+    padding-left: 20px;
+}
+#YM{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.white-text P{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height:35px;
+    padding-top: 0;
+}
